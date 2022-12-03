@@ -16,22 +16,22 @@
 
 **Images:**
 
-Log-in Screen
+## Log-in Screen
 
-![alt text](project/src/images/screen1.jpeg) 
+![alt text](/project/src/images/screen1.jpeg) 
 <br/>
 
-Registration
+## Registration
 
-![alt text](project/src/images/screen2.jpeg) 
+![alt text](/project/src/images/screen2.jpeg) 
 <br/>
 
-Virtual Shop
+## Virtual Shop
 
-![alt text](project/src/images/screen3.jpeg) 
+![alt text](/project/src/images/screen3.jpeg) 
 <br/>
 
-Cart with total
+## Cart with total
 
-![alt text](project/src/images/screen4.jpeg) 
+![alt text](/project/src/images/screen4.jpeg) 
 <br/>
